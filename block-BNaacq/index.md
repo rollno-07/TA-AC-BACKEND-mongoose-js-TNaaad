@@ -16,7 +16,7 @@ Each article can have fields :-
 - comments
 - timestamps()
 
-Each comment can have fields:-
+Each comment   can have fields:-
 
 - content
 - author -> ID of user
